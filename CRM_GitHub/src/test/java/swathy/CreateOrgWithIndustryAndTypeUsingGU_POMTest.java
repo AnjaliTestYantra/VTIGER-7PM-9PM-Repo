@@ -118,4 +118,3 @@ public class CreateOrgWithIndustryAndTypeUsingGU_POMTest {
 	}
 
 }
-}
